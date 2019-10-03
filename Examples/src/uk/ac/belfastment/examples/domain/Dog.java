@@ -3,7 +3,7 @@ package uk.ac.belfastment.examples.domain;
 public class Dog {
 	
 	private int age;
-	private String typeOfBreed;
+	private String typeOfDog;
 	
 	
 	public void bark() {
